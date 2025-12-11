@@ -2,4 +2,4 @@
 
 This repository contains experiments and tutorials demonstrating different optimization methods for training neural networks using JAX and Optax. The focus is on understanding the behavior of gradient-based and quasi-Newton methods in practice.
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shtadinada/NLOPT-exercises/blob/main/NLOPT_unconstrained.ipynb)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/shtadinada/NLOPT-exercises/blob/main/NLOPT_unconstarined.ipynb)
